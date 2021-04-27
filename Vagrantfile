@@ -1,7 +1,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 VM_ID = "ziyotek"
-NUM_WORKER_NODES = 2
+NUM_WORKER_NODES = 1
 IP_NW = "192.168.11."
 IP_START=20
 
